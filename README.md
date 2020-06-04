@@ -2,4 +2,4 @@
 
 ### Run `iex -S mix`
 
-### Navigate to `http://localhost:4001/` in two different browsers.
+### Navigate to `http://localhost:4000/` in two different browsers.
